@@ -1,2 +1,2 @@
-# EDA-Netflix-Project
-Exploratory Data Analysis Netflix
+# EDA Netflix Project
+Exploratory Data Analysis of Netflix
